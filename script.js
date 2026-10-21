@@ -1,4 +1,5 @@
 
+//this is calaculator script in feature branch
 const display = document.getElementById("display");
 
 function appendValue(value) {
